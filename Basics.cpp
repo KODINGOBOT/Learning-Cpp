@@ -14,8 +14,17 @@ double------>3.45576,2.6974456,53.3844384,8.2874924,.........(Decimals of high p
 bool------>true,false
 */
 
+/*User defined Datatype:-
+Struct
+Union
+Enumgit
+*/
 
-
+/*Derived datatypes:-
+Array
+Function
+Pointer
+*/
 
 int main() {
     // int datatype takes the size of 4 bytes 
